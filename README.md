@@ -3,6 +3,7 @@
 1.npm
 2.nodejs
 3.git
+
 二、安装方法
 1.git clone
 2.进入目录
