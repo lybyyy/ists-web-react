@@ -1,0 +1,153 @@
+.dot {
+  width: 20px;
+  height: 20px;
+  margin: 0 auto;
+}
+.feature h2{
+  color: #fff!important;
+  font-size: 24px;
+}
+.background {
+  height: 600px;
+  width: 100vw;
+}
+
+.text {
+  font-size: 16px;
+  color: #fff;
+}
+.banner {
+  background-image: url('../asset/1.jpg');
+  background-size: cover;
+  color: #fff;
+  text-align: center;
+}
+.title {
+  padding-top: 20px;
+  font-family: "黑体";
+  text-align: center;
+  font-size: 32px;
+  color: #fff
+}
+.slogan {
+  font-size: 28px;
+  margin-top: -20px;
+}
+.asset {
+  padding: 30px 0px;
+  display: flex;
+  align-items:  center;
+  background-color: #fff;
+  justify-content: space-around
+}
+.button button {
+  font-size: 26px!important;
+  color: #ccc;
+  padding: 20px 60px;
+  box-shadow: 1px 1px 2px #ccc;
+  border-radius: 5px;
+  background: -webkit-linear-gradient(top, #ff9f3c 0%, #ff7d2d 50%, #ff9f3c 100%) no-repeat center top;
+}
+.button button:hover {
+  background: -webkit-linear-gradient(top, #ffbf4e 0%, #ff9f3f 50%, #ffbf5e 100%) no-repeat center top;
+}
+.advance {
+  background-image: url('../asset/3.png');
+}
+.advance > ul {
+  list-style: none;
+  padding-inline-start: 0!important;
+  display: flex;
+  margin-bottom: 0!important;
+}
+.advance li {
+  font-size: 24px;
+  text-align: center;
+  width: 50%;
+  color: #fff;
+  height: 300px;
+}
+.performance {
+  width: 200px;
+  height: 200px;
+  background: url('../asset/4.png') no-repeat;
+  background-size: 200px 800px;
+  margin: 0 auto -10px;
+  position: relative;
+}
+.effective {
+  width: 200px;
+  height: 200px;
+  background: url('../asset/4.png') no-repeat;
+  background-position: 0px -200px;
+  background-size: 200px 800px;
+  margin: 0 auto -10px;
+  position: relative;
+}
+.swift {
+  width: 200px;
+  height: 200px;
+  background: url('../asset/4.png') no-repeat;
+  background-position: 0px -400px;
+  background-size: 200px 800px;
+  margin: 0 auto -10px;
+  position: relative;
+}
+.safe {
+  width: 200px;
+  height: 200px;
+  background: url('../asset/4.png') no-repeat;
+  background-position: 0px -600px;
+  background-size: 200px 800px;
+  margin: 0 auto -10px;
+  position: relative;
+}
+.feature p {
+  font-size: 20px;
+}
+.platform {
+  position: relative;
+  height: 600px;
+  width: 100%;
+  background: url('../asset/5.jpg') no-repeat;
+  background-size:cover;
+}
+.platform h2 {
+  padding-top: 3%;
+  font-weight: bold;
+  font-size: 40px;
+  text-align: center;
+}
+.business {
+  margin-top: 20%;
+  display: flex;
+}
+.business p {
+  width: 25%;
+  text-align: center;
+  color: #111;
+  font-size: 24px;
+}
+
+.business ::before {
+  content: "";
+  display: block;
+  position: relative;
+  height: 20px;
+  width: 20px;
+  background-color: #2fd1f2;
+  top: 50%;
+  left: 20%;
+  border-radius: 20px;
+}
+.bdetail{
+  margin-top: 0%;
+  display: flex;
+}
+.bdetail h3 {
+  width: 25%;
+  text-align: center;
+  color: #111;
+  font-size: 17px;
+  padding: 0 20px;
+}

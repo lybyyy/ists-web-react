@@ -1,0 +1,116 @@
+.solution{
+    background-color: #f1f1f1;
+}
+.business{
+    height: 450px;
+    width: 100%;
+    background: url('../asset/s.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.s1 {
+    height: 200px;
+    width: 100%;
+    background: url('../asset/s1.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+.s1_1 {
+  height: 300px;
+  width: 80%;
+  margin: 0 auto;
+  background: url('../asset/s1_1.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.s1_2 {
+  height: 800px;
+  width: 80%;
+  margin: 0 auto;
+  background: url('../asset/s1_2.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.s1_3 {
+  height: 360px;
+  width: 80%;
+  margin: 0 auto;
+  background: url('../asset/s1_3.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.s2 {
+    height: 200px;
+    width: 100%;
+    background: url('../asset/s2.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+.s2_1 {
+  height: 300px;
+  width: 80%;
+  margin: 0 auto;
+  background: url('../asset/s2_1.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.s2_2 {
+  height: 800px;
+  width: 80%;
+  margin: 0 auto;
+  background: url('../asset/s2_2.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.s2_3 {
+  height: 360px;
+  width: 80%;
+  margin: 0 auto;
+  background: url('../asset/s2_3.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.s3 {
+    height: 200px;
+    width: 100%;
+    background: url('../asset/s3.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+.s3_1 {
+  height: 300px;
+  width: 80%;
+  margin: 0 auto;
+  background: url('../asset/s3_1.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.s3_2 {
+  height: 600px;
+  width: 80%;
+  margin: 0 auto;
+  background: url('../asset/s3_2.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.s3_3 {
+  height: 360px;
+  width: 80%;
+  margin: 0 auto;
+  background: url('../asset/s3_3.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}

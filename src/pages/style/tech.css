@@ -1,0 +1,29 @@
+.tech {
+  background-color: #f1f1f1;
+}
+.frame {
+  height: 490px;
+  width: 100%;
+  background: url('../asset/t1.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.bottom {
+  height: 490px;
+  width: 80%;
+  margin: 0 auto;
+  background: url('../asset/t2.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.advantage {
+  height: 1300px;
+  width: 84%;
+  margin: 20px auto 0;
+  background: url('../asset/t3.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
