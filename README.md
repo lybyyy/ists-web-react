@@ -1,15 +1,13 @@
 ## 智能服务交易与监管技术基础平台
 - 一、前提条件
-- npm
-- node
-- git
-
+* npm
+* node
+* git
 - 二、使用方法
-- 1. git clone
-- 2. 进入目录
-- 3. npm i
-- 4. npm start
-
+* 1. git clone
+* 2. 进入目录
+* 3. npm i
+* 4. npm start
 ### *页面开发流程*
 - 在pages文件夹下编写页面组件，一个页面写一个组件即可
 - 编写组件样式时，采用模块化样式，样式文件在style文件夹下写，命名统一以 ***.module.css*** 结尾
